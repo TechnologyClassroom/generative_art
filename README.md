@@ -2,7 +2,7 @@ After forking from a fork of [a nonexistent repo](https://github.com/aaronpenne/
 
 ---
 
-The latest & greatest is in the [ppy_terminal directory](https://github.com/technologyclassroom/generative_art/tree/master/ppy_terminal). Using Processing from the termainal with Python. It's fun, and has a thorough readme.
+The latest & greatest is in the [ppy_terminal directory](https://github.com/technologyclassroom/generative_art/tree/master/ppy_terminal). Using Processing from the terminal with Python. It's fun, and has a thorough readme.
 
 ---
 
@@ -30,13 +30,13 @@ The latest & greatest is in the [ppy_terminal directory](https://github.com/tech
 
 ## Seuss Tubes
 
-<p align="center"><img src="https://raw.githubusercontent.com/technologyclassroom/generative_art/master/p5/images/seuss_tubes_6.png" alt="seuss_tube" width="90%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/technologyclassroom/generative_art/master/p5js/images/seuss_tubes_6.png" alt="seuss_tube" width="90%"></p>
 
-<p align="center"><img src="https://raw.githubusercontent.com/technologyclassroom/generative_art/master/p5/images/stack_wave_test_04.png" alt="seuss_tube" width="90%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/technologyclassroom/generative_art/master/p5js/images/stack_wave_test_04.png" alt="seuss_tube" width="90%"></p>
 
 ## Creatures
 
-I am participating in a group art show based around new media and generative artwork. The theme is "creatures". I made two programs for it, one generates beetles and the other generates abstract butterflies. 
+Participating in a group art show based around new media and generative artwork. The theme is "creatures". Two programs: one generates beetles and the other generates abstract butterflies.
 
 <p align="center"><img src="https://raw.githubusercontent.com/technologyclassroom/generative_art/master/butterflies/images/butterflies_3up.png" alt="butterflies" width="100%"></p>
 
@@ -48,7 +48,7 @@ Beetles code is in the ['buggies' dir](https://github.com/technologyclassroom/ge
 
 ## Reach
 
-<p align="center"><img src="https://raw.githubusercontent.com/technologyclassroom/generative_art/master/p5/images/stack_2.png" alt="stack" width="70%"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/technologyclassroom/generative_art/master/p5js/images/stack_2.png" alt="stack" width="70%"></p>
 
 ## Good Fortune ([source](https://github.com/technologyclassroom/generative_art/tree/master/yarn))
 
