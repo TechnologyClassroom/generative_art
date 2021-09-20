@@ -1,4 +1,4 @@
-After forking from a fork of [a nonexistent repo](https://github.com/aaronpenne/generative_art), this repo is a hard fork from the last free software commit `9bd9a21404fa163d2432fdf8f31761cde9d49cc8`.
+After forking from a fork of [a nonexistent repo](https://web.archive.org/web/20201101044018/https://github.com/aaronpenne/generative_art), this repo is a hard fork from the last free software commit `9bd9a21404fa163d2432fdf8f31761cde9d49cc8` from Sun Dec 20 08:48:14 2020 -0800.
 
 ---
 
