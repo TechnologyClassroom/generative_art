@@ -2,7 +2,7 @@ After forking from a fork of [a nonexistent repo](https://web.archive.org/web/20
 
 ---
 
-The latest & greatest is in the [ppy_terminal directory](https://github.com/technologyclassroom/generative_art/tree/master/ppy_terminal). Using Processing from the terminal with Python. It's fun, and has a thorough readme.
+The latest & greatest is in the [ppy_terminal directory](https://github.com/technologyclassroom/generative_art/tree/master/ppy_terminal). Using Processing from the terminal with Python. It is fun, and has a thorough readme.
 
 ---
 
@@ -36,15 +36,13 @@ The latest & greatest is in the [ppy_terminal directory](https://github.com/tech
 
 ## Creatures
 
-Participating in a group art show based around new media and generative artwork. The theme is "creatures". Two programs: one generates beetles and the other generates abstract butterflies.
+### Butterflies ([source](https://github.com/technologyclassroom/generative_art/tree/master/butterballs))
 
 <p align="center"><img src="https://raw.githubusercontent.com/technologyclassroom/generative_art/master/butterflies/images/butterflies_3up.png" alt="butterflies" width="100%"></p>
 
-Butterfly code is in the ['butterflies' dir](https://github.com/technologyclassroom/generative_art/tree/master/butterballs).
+### Beetles ([source](https://github.com/technologyclassroom/generative_art/tree/master/buggies))
 
 <p align="center"><img src="https://raw.githubusercontent.com/technologyclassroom/generative_art/master/buggies/images/beetle_layout_4.png" alt="beetles" width="100%"></p>
-
-Beetles code is in the ['buggies' dir](https://github.com/technologyclassroom/generative_art/tree/master/buggies).
 
 ## Reach
 
@@ -88,7 +86,7 @@ Beetles code is in the ['buggies' dir](https://github.com/technologyclassroom/ge
 
 <p align="center"><img src="https://github.com/technologyclassroom/generative_art/blob/master/sinful/images/sinful_x_rando.png" alt="playing with lines" width="60%"></p>
 
-## My take on [M74 by Wojciech Fangor](https://desa.pl/en/auctions/414/object/41872/wojciech-fangor-m-74-19702001)
+## Take on [M74 by Wojciech Fangor](https://desa.pl/en/auctions/414/object/41872/wojciech-fangor-m-74-19702001)
 
 <p align="center"><img src="https://github.com/technologyclassroom/generative_art/blob/master/fangor_m74/images/fangor_remake.png" alt="fangor_wannabe" width="60%"></p>
 
