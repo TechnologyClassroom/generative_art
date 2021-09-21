@@ -48,7 +48,7 @@ The latest & greatest is in the [ppy_terminal directory](https://github.com/tech
 
 <p align="center"><img src="https://raw.githubusercontent.com/technologyclassroom/generative_art/master/p5js/images/stack_2.png" alt="stack" width="70%"></p>
 
-## Good Fortune ([source](https://github.com/technologyclassroom/generative_art/tree/master/processing_python/yarn))
+## Good Fortune ([source](https://github.com/technologyclassroom/generative_art/tree/master/processing_python/good_fortune/yarn))
 
 <p align="center"><img src="https://github.com/technologyclassroom/generative_art/blob/master/processing_python/yarn/images/yarn_pack_kbo_a.png" alt="kbo_a" width="70%"></p>
 
